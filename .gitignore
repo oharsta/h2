@@ -1,0 +1,8 @@
+HELP.md
+db/
+target/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
