@@ -6,4 +6,4 @@ spring:
         dialect: org.hibernate.dialect.H2Dialect
   datasource:
     driver-class-name: org.h2.Driver
-    url: jdbc:h2:file:./db/demodb
+    url: jdbc:h2:file:./database/demodb
